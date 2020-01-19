@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/3.3.6baad5e0bf442eeb7d01.css"
   },
   {
-    "revision": "c1b1c3db1b224df69509",
+    "revision": "47de0cc1a47314083fb4",
     "url": "./static/css/app.8.96837f224f28fa916299.css"
   },
   {
@@ -99,7 +99,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/antd-zh-CN.7.035d5abd6f9f03801178.js"
   },
   {
-    "url": "./static/js/app.8.c1b1c3db1b224df69509.js"
+    "url": "./static/js/app.8.47de0cc1a47314083fb4.js"
   },
   {
     "url": "./static/js/buildup~app.9.fa9395b35a5af8a04293.js"

@@ -15,7 +15,7 @@ importScripts("./workbox-v4.3.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "./workbox-v4.3.1"});
 
 importScripts(
-  "./precache-manifest.e1dace8007644c030083ae93d4657cf4.js"
+  "./precache-manifest.e6ceb1713e52602ebeb865b89456f987.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ts-react-webpack"});
