@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{858:function(n){n.exports=JSON.parse('{"USERNAME":"username","PASSWORD":"password","LOGIN":"Login"}')}}]);
-//# sourceMappingURL=en-US.12.2dc7db39ef51807b6272.js.map
