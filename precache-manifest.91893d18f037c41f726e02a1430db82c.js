@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.2.36a607279090cd47d3a3.css"
   },
   {
-    "revision": "6125c4263f3792804b69",
+    "revision": "b2c383aff4aa24cfa835",
     "url": "./static/css/20.20.a861c6f01802b6c33320.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/4.4.571d60770966485e8ebf.css"
   },
   {
-    "revision": "fe4863de8b446598d61c",
+    "revision": "20b43e69430ca84c5c7f",
     "url": "./static/css/app.8.96837f224f28fa916299.css"
   },
   {
@@ -80,10 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.2.f5bebb6299d5a64ea8c2.js"
   },
   {
-    "url": "./static/js/20.20.6125c4263f3792804b69.js"
+    "url": "./static/js/20.20.b2c383aff4aa24cfa835.js"
   },
   {
-    "url": "./static/js/20.20.6125c4263f3792804b69.js.LICENSE"
+    "url": "./static/js/20.20.b2c383aff4aa24cfa835.js.LICENSE"
   },
   {
     "url": "./static/js/21.21.f46155b3d316e306ffd0.js"
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/antd-zh-CN.7.66b075150657412a6a54.js"
   },
   {
-    "url": "./static/js/app.8.fe4863de8b446598d61c.js"
+    "url": "./static/js/app.8.20b43e69430ca84c5c7f.js"
   },
   {
     "url": "./static/js/buildup~app.9.3f1d31fa495e9e3de495.js"
@@ -143,7 +143,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/login.14.7b23ac2c437e8b7542bd.js"
   },
   {
-    "url": "./static/js/manifest.3b03a56083de34696be8.js"
+    "url": "./static/js/manifest.30a8c1394a8a1bb9847e.js"
   },
   {
     "url": "./static/js/socket-debugger.16.573c6c4e8d837f2462ed.js"
